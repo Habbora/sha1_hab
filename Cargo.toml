@@ -3,6 +3,8 @@ name = "sha1_hab"
 version = "0.1.0"
 edition = "2021"
 authors = ["Alisson Q Azevedo <alisson.queirois@gmail.com>"]
+description = "Simple SHA-1 Hash"
+license = "GFDL"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
